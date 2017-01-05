@@ -32,7 +32,8 @@
       {name: 'juice',quantity: 2},
       {name: 'yogurt',quantity: 8},
       {name: 'bread',quantity: 3},
-      {name: 'snack',quantity: 10}
+      {name: 'snack',quantity: 10},
+      {name: 'apples',quantity: 9}
     ];
     var alreadyBoughtItems = [];
 
